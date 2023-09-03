@@ -3,7 +3,7 @@ import './app.css';
 
 function App() {
 	return (
-		<h1 className="text-primary text-4xl font-bold">
+		<h1 className="text-primary text-2xl font-bold">
 			Hello world! I am using React
 		</h1>
 	);
